@@ -16,7 +16,7 @@ A modern alternative to SCSS setting
 
 ## 학장 정보 및 문제점
 
-#### 'a'
+#### `a`
 밑줄(text-decoration) 제거(:none) 추가
 
 ---
